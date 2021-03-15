@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "Sevastopol.jpg"
+  Type "RASTER"
+  (33.37946892, 44.66126300) (0, 0) Label "Point 1",
+  (33.70341539, 44.54412722) (15097, 7641) Label "Point 2",
+  (33.37946892, 44.54412722) (0, 7641) Label "Point 3",
+  (33.70341539, 44.66126300) (15097, 0) Label "Point 4",
+  (33.54145288, 44.60271717) (7548, 3820) Label "Point 5",
+  (33.54145288, 44.66126300) (7548, 0) Label "Point 6",
+  (33.37946892, 44.60271717) (0, 3820) Label "Point 7",
+  (33.70341539, 44.60271717) (15097, 3820) Label "Point 8",
+  (33.54145288, 44.54412722) (7548, 7641) Label "Point 9"
+ CoordSys Earth Projection 10, 104, 7, 0
+ Units "degree"
